@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3438
+
+This plug-in has features:
+- It adds standard cscope mappings (see `:help cscope')
+- It searches `cscope.out' file in:
+    1. The directory containing where the file which was opened or selected.
+    2. The current working directory.
+    3. $CSCOPE_DB.
+-  It switches to relevant cscope connection.
